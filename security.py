@@ -32,4 +32,3 @@ for i in ip:
             print(" ")
             continue
     exit
-}
