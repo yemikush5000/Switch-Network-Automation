@@ -7,3 +7,4 @@ This program solves that with the Intelligence built into it.
 There are 2 files one for IP addresses of all switches in the Enterprise, one per line
 a second file with the list of passwords to try and login to the switch
 once logged in we can submit the commands we want the switch to do either a show or configuration change.
+The passwords are not real but just generated for this simulation purpose
